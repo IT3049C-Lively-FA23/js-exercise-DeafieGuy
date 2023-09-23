@@ -17,9 +17,10 @@ Instructions to this assignment can be found [here](https://reedws.github.io/IT3
 
 ## Self-Evaluation: 
 (For this assignment, there was 22 exercises checked by 69 automated checks)
-how many points out of 20 do you deserve on this assignment:
+how many points out of 20 do you deserve on this assignment:0
 
 ## Self-Reflection:
 <!-- What did you learn that you found interesting -->
-
+I learned that I have to add one more "=" or had to figure out what other symbols i can use for true and false section
 ### How long it took you to finish this?
+Sadly 3 weeks, well actually it was 2 and half weeks since i was struggling but still
